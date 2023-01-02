@@ -1,0 +1,14 @@
+Name of the student : SUPRATIK GHOSH 
+Class Roll of the student : 14 
+Stream of the student : ECE 
+Your Student ID is : ECE2214
+
+Marks obtained in Math is : 95 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 91 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 90 
+Marks obtained in English is : 92 
+
+You have got 555 in total with 92%
+Outstanding Performance... You have passed the exam with grade A.

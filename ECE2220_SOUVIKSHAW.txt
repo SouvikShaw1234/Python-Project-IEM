@@ -1,0 +1,14 @@
+Name of the student : SOUVIK SHAW 
+Class Roll of the student : 20 
+Stream of the student : ECE 
+Your Student ID is : ECE2220
+
+Marks obtained in Math is : 98 
+Marks obtained in Python is : 96 
+Marks obtained in Physics is : 99 
+Marks obtained in Chemistry is : 91 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 97 
+
+You have got 576 in total with 96%
+Outstanding Performance... You have passed the exam with grade A.
